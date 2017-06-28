@@ -11,5 +11,5 @@ The controller is a simple arduino with a atmel tiny85 processor.
 
 A quadratur pulse encoder is used to adjust speed.
 
-![encoder module](docs/encoder.jpeg)
+![encoder module](docs/encoder.jpg)
 
