@@ -8,3 +8,8 @@ I use a large PC fan to improve the ventilation around my 3d printer. It is 12V 
 The controller is a simple arduino with a atmel tiny85 processor.
 
 ![digispark-tiny85 pcb](docs/digispark-tiny85.jpeg)
+
+A quadratur pulse encoder is used to adjust speed.
+
+![encoder module](docs/encoder.jpeg)
+
