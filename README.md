@@ -13,3 +13,6 @@ A quadratur pulse encoder is used to adjust speed.
 
 ![encoder module](docs/encoder.jpg)
 
+Module schematics
+
+![schematics](docs/encoder-module-schematics.jpg)
