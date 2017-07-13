@@ -33,6 +33,10 @@ The PCB cad output
 
 ## Case
 
-The 3D printed case - part 1
+CAD model
 
-![3d printed case part 1](docs/fanspeed-case-1.jpg)
+![case cad model](docs/fanspeed-case-cad.png)
+
+3D printed case
+
+![3d printed case part 1](docs/fanspeed-case.jpg)
